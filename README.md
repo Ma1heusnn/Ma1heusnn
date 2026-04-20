@@ -1,4 +1,4 @@
-## Opa, eu sou o Matheus Natale 👋
+## Opa, eu sou o Matheus!
 
 - 🔭 Estudo na ETEC Albert Einstein | 2º Desenvolvimento de Sistemas
 - 📚 Kotlin | Android Studio | Jetpack Compose | Python
@@ -6,7 +6,7 @@
 
 ---
  
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias que Utilizo
  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
