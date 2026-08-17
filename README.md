@@ -1,8 +1,8 @@
 ## Opa, eu sou o Matheus!
 
 - 🔭 Estudo na ETEC Albert Einstein | 2º Desenvolvimento de Sistemas
-- 📚 Kotlin | Android Studio | Jetpack Compose | Python
-- 📫 Entre em contato comigo pelo email: matheusnatalenucci@gmail.com
+- 💻 Sou estagiário na Serraf Autopeças e trabalho com Mobile & Backend
+- 🔎 Tenho interesse em aprofundar-me cada vez mais no conhecimento de IA's
 
 ---
  
