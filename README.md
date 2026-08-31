@@ -1,7 +1,7 @@
 ## Opa, eu sou o Matheus!
 
 - 🔭 Estudo na ETEC Albert Einstein | 2º Desenvolvimento de Sistemas
-- 💻 Sou estagiário na Serraf Autopeças e trabalho com Mobile & Backend
+- 💻 Sou estagiário na Serraf Autopeças e trabalho com Desenvolvimento Mobile
 - 🔎 Tenho interesse em aprofundar-me cada vez mais no conhecimento de IA's
 
 ---
