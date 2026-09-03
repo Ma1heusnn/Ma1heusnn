@@ -10,6 +10,7 @@
  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+ <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ktor/ktor-original.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img height="32" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/intellij/intellij-original.svg" />
